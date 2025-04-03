@@ -1,9 +1,4 @@
 
-
-6. 1)niepoprawna nazwa zmiennej 
-2)niepoprawan nazwa funcji
-3)zmienna symbols moze byc zle interpretowana
-poprawna wizja kodu
 import random
 
 lower = "abcdefghijklmnopqrstuvwxyz"
